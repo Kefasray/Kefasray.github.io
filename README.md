@@ -3,10 +3,10 @@
 -Description
 -Links
 ### Project 2
-Description
--Links
-## education
-Some University
+-Description
+-[My project links](www.google.com)
+## Education
+-Some University
 ## Work History
-Workplace 1
-Workplace 2
+-Workplace 1
+-Workplace 2
